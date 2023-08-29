@@ -1,5 +1,4 @@
 import streamlit as st
-import replicate
 import os
 
 # App title
